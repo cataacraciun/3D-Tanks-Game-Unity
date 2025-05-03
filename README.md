@@ -36,16 +36,4 @@ Assets/
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
----
 
-## ✅ 2. Vrei să îl creez automat în folderul tău?
-
-Dacă ești în `C:\Users\spark\Desktop\3D-Tanks-Game-Unity`, deschide Git Bash sau CMD și scrie:
-
-```bash
-notepad README.md
-Apoi lipește conținutul de mai sus și salvează.
-Apoi revii în terminal și faci:
-git add README.md
-git commit -m "Adăugat fișier README.md"
-git push origin main
